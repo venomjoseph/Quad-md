@@ -1,6 +1,6 @@
 <div </img>
  <p align="center">
-  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=cyan&center=true&vCenter=true&multiline=false&lines=PRETTY-MD+ADVANCED+WHATSAPP+BOT+" alt=""></div>
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=cyan&center=true&vCenter=true&multiline=false&lines=QUAD-MD+ADVANCED+WHATSAPP+BOT+" alt=""></div>
 <p align="center">
   <p align="center">
    <a href="https://github.com/xhyphertech/Pretty-md">
